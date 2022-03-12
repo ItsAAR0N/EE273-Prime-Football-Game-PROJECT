@@ -1,6 +1,11 @@
 # EE273-Prime-Football-Game-PROJECT
 Repository for the EE273 final project.
 
+Welcome to our prime number football game inspired by Marcus Du Sautoy! 
+A short abstract about the game:
+
+The ball starts with a player from Team 1. The aim is to make it past n players where (1<n<11, n =/= 0) in the opponent's/comp.'s team. The opponent chooses the first player to try to tackle Team 1's player. Roll the dice. The dice has six sides: white 3,5 or 7, and black 3,5 or 7. The dice will tell you to divide your prime and the prime of your opponent's player by 3, 5 or 7 and then take the remainder. If it is a white 3, 5 or 7, your remainder needs to equal or beat the opposition. If it is black, you need to equal or get less than your opponent. To score, you must make it past all n players and then go up against a random choice of prime from the opposition. If at any point the opposition beats you, then possesion switches to the opposition. The person who has gained possesion then uses the player who won to try to make it through the opposition's n players. If Team 1's shot at goal is missed then Team 2 takes the ball and gives it to one of their players. The game can be played either against the clock or first to N goals.
+
 # Useful links:
 
 ORIGINAL User specification (Amazon Book): https://www.amazon.co.uk/Number-Mysteries-Mathematical-Odyssey-Everyday/dp/0007309864?asin=0007309864&revisionId=&format=4&depth=1
@@ -8,17 +13,13 @@ ORIGINAL User specification (Amazon Book): https://www.amazon.co.uk/Number-Myste
 Lucidchart Flowchart diagrams: 
 https://lucid.app/lucidchart/ee7f8975-c79b-45de-9bb4-68fba78cbdcc/edit?page=0_0&invitationId=inv_76a5291d-2ec8-48b6-9bfe-2d4c8d5f8a36# (LOW-LEVEL)
 
-# GTK
+# Graphical User Interface (GUI) development using wxWdigets:
 
-GTKMM 4 Documentation: 
-https://developer-old.gnome.org/gtkmm-tutorial/stable/index.html
+Download: 
+https://www.wxwidgets.org/downloads/
+Tutorial:
+https://www.wxwidgets.org/docs/tutorials/
 
-Installation of GTKMM 4:
-https://www.gtk.org/docs/installations/windows/#using-gtk-from-msys2-packages
-
-GTK Tutorial YT:
-https://youtube.com/playlist?list=PLEs_0O72adQBUpcPJv7dKaElGwyzVljtk
-
-In VS: 
-Nuget -> GtkSharp install
-bro idk https://youtu.be/wRnjahwxZ8A
+Getting started with wxWidgets (YT):
+https://youtu.be/L3IXsa9Yyr4
+https://youtu.be/FOIbK4bJKS8

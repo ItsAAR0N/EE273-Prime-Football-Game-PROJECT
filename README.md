@@ -21,3 +21,4 @@ https://youtube.com/playlist?list=PLEs_0O72adQBUpcPJv7dKaElGwyzVljtk
 
 In VS: 
 Nuget -> GtkSharp install
+bro idk https://youtu.be/wRnjahwxZ8A

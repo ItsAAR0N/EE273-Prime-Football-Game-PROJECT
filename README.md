@@ -17,5 +17,5 @@ https://www.gtk.org/docs/installations/windows/#using-gtk-from-msys2-packages
 GTK Tutorial YT:
 https://youtube.com/playlist?list=PLEs_0O72adQBUpcPJv7dKaElGwyzVljtk
 
-Run in VS:
-vcpkg install gtkmm:x64-windows
+In VS: 
+Nuget -> GtkSharp install

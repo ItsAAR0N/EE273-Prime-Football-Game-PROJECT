@@ -32,6 +32,9 @@ https://youtu.be/ONYW3hBbk-8
 Documentation:
 https://docs.wxwidgets.org/3.0/
 
+Samples:
+https://github.com/gammasoft71/Examples_wxWidgets
+
 Getting started with wxWidgets (YT):
 https://youtu.be/L3IXsa9Yyr4
 https://youtu.be/FOIbK4bJKS8

@@ -38,5 +38,10 @@ https://github.com/gammasoft71/Examples_wxWidgets
 Getting started with wxWidgets (YT):
 https://youtu.be/L3IXsa9Yyr4
 https://youtu.be/FOIbK4bJKS8
+https://youtu.be/kbRCQj4j4yw
+
+wxFormBuilder download:
+https://github.com/wxFormBuilder/wxFormBuilder/releases
+
 
 ![title-small](https://user-images.githubusercontent.com/78095030/158036906-f0e09916-1829-4250-b8f7-663f4630658c.png)

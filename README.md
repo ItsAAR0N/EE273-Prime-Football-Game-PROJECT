@@ -21,6 +21,11 @@ https://www.wxwidgets.org/downloads/
 Tutorial:
 https://www.wxwidgets.org/docs/tutorials/
 
+Dependencies:
+
+How to install VCPKG (YT):
+https://www.youtube.com/watch?v=wRnjahwxZ8A
+
 Getting started with wxWidgets (YT):
 https://youtu.be/L3IXsa9Yyr4
 https://youtu.be/FOIbK4bJKS8

@@ -15,3 +15,8 @@ https://lucid.app/lucidchart/ee7f8975-c79b-45de-9bb4-68fba78cbdcc/edit?page=0_0&
 
 # Graphical User Interface (GUI) development using Code::Blocks:
 
+Tutorial installation:
+https://youtu.be/Pco3EysB5zU
+
+Relevant article for installation:
+https://technobyte.org/install-code-blocks-gcc-compiler-first-c-program-windows-10/

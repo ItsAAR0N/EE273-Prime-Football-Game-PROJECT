@@ -40,6 +40,10 @@ https://youtu.be/L3IXsa9Yyr4
 https://youtu.be/FOIbK4bJKS8
 https://youtu.be/kbRCQj4j4yw
 
+
+wxWidgets TUTORIAL PLAYLIST (YT):
+https://youtube.com/playlist?list=PLo9pBOxuHoY342UknTqnsSwuR8amCbIpY
+
 wxFormBuilder download:
 https://github.com/wxFormBuilder/wxFormBuilder/releases
 

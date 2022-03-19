@@ -13,10 +13,35 @@ ORIGINAL User specification (Amazon Book): https://www.amazon.co.uk/Number-Myste
 Lucidchart Flowchart diagrams: 
 https://lucid.app/lucidchart/ee7f8975-c79b-45de-9bb4-68fba78cbdcc/edit?page=0_0&invitationId=inv_76a5291d-2ec8-48b6-9bfe-2d4c8d5f8a36# (LOW-LEVEL)
 
-# Graphical User Interface (GUI) development using Code::Blocks:
+# Graphical User Interface (GUI) development using wxWidgets:
 
-Tutorial installation:
-https://youtu.be/Pco3EysB5zU
+Download: 
+https://www.wxwidgets.org/downloads/
 
-Relevant article for installation:
-https://technobyte.org/install-code-blocks-gcc-compiler-first-c-program-windows-10/
+Tutorial:
+https://www.wxwidgets.org/docs/tutorials/
+
+Dependencies:
+
+How to install VCPKG (YT):
+https://www.youtube.com/watch?v=wRnjahwxZ8A
+
+How to install wxWidgets (YT):
+https://youtu.be/ONYW3hBbk-8
+
+Documentation:
+https://docs.wxwidgets.org/3.0/
+
+Samples:
+https://github.com/gammasoft71/Examples_wxWidgets
+
+Getting started with wxWidgets (YT):
+https://youtu.be/L3IXsa9Yyr4
+https://youtu.be/FOIbK4bJKS8
+https://youtu.be/kbRCQj4j4yw
+
+wxFormBuilder download:
+https://github.com/wxFormBuilder/wxFormBuilder/releases
+
+
+![title-small](https://user-images.githubusercontent.com/78095030/158036906-f0e09916-1829-4250-b8f7-663f4630658c.png)

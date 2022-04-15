@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>EnterPlayerDialogue</class>
+ <widget class="QDialog" name="EnterPlayerDialogue">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>440</width>
+    <height>445</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Player selection</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout_9">
+   <item>
+    <layout class="QHBoxLayout" name="Overall">
+     <item>
+      <widget class="QGroupBox" name="Left">
+       <property name="title">
+        <string>Enter team 1 players</string>
+       </property>
+       <layout class="QVBoxLayout" name="verticalLayout_3">
+        <item>
+         <layout class="QVBoxLayout" name="InnerLeft">
+          <item>
+           <widget class="QLabel" name="label">
+            <property name="text">
+             <string>Prime numbers</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <layout class="QVBoxLayout" name="EnterboxesLeft">
+            <item>
+             <widget class="QLineEdit" name="lineEdit_1_teamone"/>
+            </item>
+            <item>
+             <widget class="QLineEdit" name="lineEdit_2_teamone"/>
+            </item>
+            <item>
+             <widget class="QLineEdit" name="lineEdit_3_teamone"/>
+            </item>
+            <item>
+             <widget class="QLineEdit" name="lineEdit_4_teamone"/>
+            </item>
+            <item>
+             <widget class="QLineEdit" name="lineEdit_5_teamone"/>
+            </item>
+            <item>
+             <widget class="QLineEdit" name="lineEdit_6_teamone"/>
+            </item>
+            <item>
+             <widget class="QLineEdit" name="lineEdit_7_teamone"/>
+            </item>
+            <item>
+             <widget class="QLineEdit" name="lineEdit_8_teamone"/>
+            </item>
+            <item>
+             <widget class="QLineEdit" name="lineEdit_9_teamone"/>
+            </item>
+            <item>
+             <widget class="QLineEdit" name="lineEdit_10_teamone"/>
+            </item>
+            <item>
+             <spacer name="verticalSpacer_2">
+              <property name="orientation">
+               <enum>Qt::Vertical</enum>
+              </property>
+              <property name="sizeType">
+               <enum>QSizePolicy::Fixed</enum>
+              </property>
+              <property name="sizeHint" stdset="0">
+               <size>
+                <width>20</width>
+                <height>30</height>
+               </size>
+              </property>
+             </spacer>
+            </item>
+           </layout>
+          </item>
+         </layout>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item>
+      <widget class="QGroupBox" name="Center">
+       <property name="title">
+        <string>Each enter team info</string>
+       </property>
+       <layout class="QVBoxLayout" name="verticalLayout_8">
+        <item>
+         <layout class="QVBoxLayout" name="InnerCenter">
+          <item>
+           <widget class="QLabel" name="TeamOneName">
+            <property name="text">
+             <string>Team One Name</string>
+            </property>
+            <property name="buddy">
+             <cstring>teamOne_name</cstring>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLineEdit" name="teamOne_name"/>
+          </item>
+          <item>
+           <widget class="QLabel" name="TeamTwoName">
+            <property name="text">
+             <string>Team Two Name</string>
+            </property>
+            <property name="buddy">
+             <cstring>teamTwo_name</cstring>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLineEdit" name="teamTwo_name"/>
+          </item>
+          <item>
+           <widget class="QLabel" name="TeamPlayerCount">
+            <property name="text">
+             <string>No. of Players</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLineEdit" name="Team_player_count"/>
+          </item>
+          <item>
+           <spacer name="verticalSpacer">
+            <property name="orientation">
+             <enum>Qt::Vertical</enum>
+            </property>
+            <property name="sizeType">
+             <enum>QSizePolicy::Fixed</enum>
+            </property>
+            <property name="sizeHint" stdset="0">
+             <size>
+              <width>20</width>
+              <height>180</height>
+             </size>
+            </property>
+           </spacer>
+          </item>
+         </layout>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item>
+      <widget class="QGroupBox" name="Right">
+       <property name="title">
+        <string>Enter team 2 players</string>
+       </property>
+       <layout class="QVBoxLayout" name="verticalLayout_4">
+        <item>
+         <layout class="QVBoxLayout" name="InnerRight">
+          <item>
+           <widget class="QLabel" name="PrimeNumbers">
+            <property name="text">
+             <string>Prime numbers</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <layout class="QVBoxLayout" name="Enterboxesright">
+            <item>
+             <widget class="QLineEdit" name="lineEdit_1_teamtwo"/>
+            </item>
+            <item>
+             <widget class="QLineEdit" name="lineEdit_2_teamtwo"/>
+            </item>
+            <item>
+             <widget class="QLineEdit" name="lineEdit_3_teamtwo"/>
+            </item>
+            <item>
+             <widget class="QLineEdit" name="lineEdit_4_teamtwo"/>
+            </item>
+            <item>
+             <widget class="QLineEdit" name="lineEdit_5_teamtwo"/>
+            </item>
+            <item>
+             <widget class="QLineEdit" name="lineEdit_6_teamtwo"/>
+            </item>
+            <item>
+             <widget class="QLineEdit" name="lineEdit_7_teamtwo"/>
+            </item>
+            <item>
+             <widget class="QLineEdit" name="lineEdit_8_teamtwo"/>
+            </item>
+            <item>
+             <widget class="QLineEdit" name="lineEdit_9_teamtwo"/>
+            </item>
+            <item>
+             <widget class="QLineEdit" name="lineEdit_10_teamtwo"/>
+            </item>
+            <item>
+             <spacer name="verticalSpacer_3">
+              <property name="orientation">
+               <enum>Qt::Vertical</enum>
+              </property>
+              <property name="sizeType">
+               <enum>QSizePolicy::Fixed</enum>
+              </property>
+              <property name="sizeHint" stdset="0">
+               <size>
+                <width>20</width>
+                <height>30</height>
+               </size>
+              </property>
+             </spacer>
+            </item>
+           </layout>
+          </item>
+         </layout>
+        </item>
+       </layout>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="Bottom">
+     <item>
+      <widget class="QPushButton" name="pushButton_2_check_prime">
+       <property name="text">
+        <string>Verify Primes</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pushButton_Ok">
+       <property name="text">
+        <string>Ok</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

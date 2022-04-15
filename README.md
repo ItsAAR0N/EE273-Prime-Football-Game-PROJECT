@@ -8,7 +8,7 @@ The ball starts with a player from Team 1. The aim is to make it past n players 
 
 **Short Preview:**
 
-![image](https://user-images.githubusercontent.com/78095030/163501877-286511eb-d434-46d3-961b-92b50b178b1f.png)
+![image](https://user-images.githubusercontent.com/78095030/163503011-fc8b7b74-e1b0-462b-99c3-fa0106d1f122.png)
 
 
 # Useful links:
